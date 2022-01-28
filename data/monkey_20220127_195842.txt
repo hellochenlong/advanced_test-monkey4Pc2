@@ -1,0 +1,10 @@
+click;449;924
+click;507;334
+click;1527;151
+double_click;302;87
+click;411;87
+click;650;691
+input;853;580;6666667788
+click;784;223
+key_press;1348;442;[17, 'x']
+double_click;665;460
